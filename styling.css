@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(173, 136, 204);
+}
+
+h1{
+    color: rgb(206, 15, 104);
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    color: darksalmon;
+    font-style: italic 
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+ol{
+    background-color: cornsilk;
+}
+
+ul{ 
+    background-color: cornsilk;
+
+}
